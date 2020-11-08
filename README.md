@@ -1,0 +1,1 @@
+This is Compati's first git project!
